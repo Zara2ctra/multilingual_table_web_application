@@ -1,0 +1,41 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "bootstrap": "^5.3.1",
+    "crypto-js": "^4.1.1",
+    "lodash": "^4.17.21",
+    "mobx": "^6.10.0",
+    "mobx-react-lite": "^4.0.3",
+    "random-js": "^2.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-bootstrap-range-slider": "^3.0.8",
+    "react-csv": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
